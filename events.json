@@ -1,0 +1,26 @@
+[
+  {
+    "name": "octo-lab",
+    "owner": "octocat",
+    "description": "A friendly collection of experiments for learning GitHub workflows.",
+    "language": "JavaScript",
+    "stars": 128,
+    "url": "https://github.com/octocat/octo-lab"
+  },
+  {
+    "name": "quiet-cli",
+    "owner": "mona",
+    "description": "A focused command-line toolkit for keeping everyday projects tidy.",
+    "language": "Python",
+    "stars": 76,
+    "url": "https://github.com/mona/quiet-cli"
+  },
+  {
+    "name": "field-notes",
+    "owner": "hubot",
+    "description": "A lightweight notes app designed for ideas gathered on the move.",
+    "language": "TypeScript",
+    "stars": 42,
+    "url": "https://github.com/hubot/field-notes"
+  }
+]
